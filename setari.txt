@@ -1,0 +1,2 @@
+file ../repo.txt
+html ../mylist.html
